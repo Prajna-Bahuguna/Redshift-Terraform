@@ -27,7 +27,7 @@ variable "rs_cluster_type"{
     default = "single-node"
 } 
 
-variable vpc_cidr{
+variable "vpc_cidr"{
     default = "10.0.0.0/16"
 }
 
