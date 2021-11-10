@@ -12,4 +12,4 @@ This project uses Terraform which is IaaC (Infrastructure as a Code) tool which 
 3. Go to your AWS console -> search -> Redshift -> samplecluster is created.
 4. Terrafrom destroy -> destroys all objects managed by a Terraform configuration.
 
-*Leave a star and share this if you found this helpful.
+*Leave a star and share this if you found this helpful.*
